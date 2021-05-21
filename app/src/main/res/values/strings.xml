@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="placeholder_email">Adresse E-mail …</string>
+    <string name="placeholder_password">Mot de passe …</string>
+    <string name="button_login">Se connecter</string>
+    <string name="button_register">S inscrire</string>
+    <string name="title_login">Connection</string>
+    <string name="placeholder_lastname">Nom de famille …</string>
+    <string name="placeholder_firstname">Prénom …</string>
+    <string name="title_register">Inscription</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button_add">Ajouter</string>
+    <string name="description_button_add">Ajouter une tâche dans votre todo list</string>
+    <string name="title_toto">Todo List</string>
+
+    <string name="button_leave">Annuler</string>
+    <string name="button_drop">Done !</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="empty_field">Merci de bien vouloir remplir ce champs</string>
+    <string name="hello">Bonjour %1$s %2$s !</string>
+</resources>
